@@ -1,4 +1,3 @@
-Już przygotowałem plik `README.md` z podanym tekstem. Oto gotowy plik do pobrania:
 
 ````markdown
 # smart-enum
@@ -94,7 +93,7 @@ npm run test
 
 ## License
 
-MIT © Hinol
+MIT © h1n0l vyyce
 
 ---
 
