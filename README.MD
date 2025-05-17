@@ -26,7 +26,7 @@ npm install @h1n0l/smart-enum
 ## Usage
 
 ```ts
-import { SmartEnum } from 'smart-enum';
+import { SmartEnum } from '@h1n0l/smart-enum';
 
 class Status extends SmartEnum<string> {
   static readonly Active = new Status('Active', 'active');

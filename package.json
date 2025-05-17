@@ -2,7 +2,7 @@
   "name": "@h1n0l/smart-enum",
   "version": "1.0.0",
   "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "types": "dist/enumBuilder.d.ts",
   "exports": {
     ".": {
       "import": "./dist/index.js",
