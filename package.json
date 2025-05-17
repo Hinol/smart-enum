@@ -19,7 +19,7 @@
   },
   "keywords": ["typescript", "enum", "smart-enum"],
   "author": "vyyce, h1n0l",
-  "license": "ISC",
+  "license": "MIT",
   "description": "SmartEnum is a lightweight TypeScript utility that brings rich behavior to enums, using object-oriented principles. Unlike traditional enums, SmartEnum allows you to encapsulate logic, metadata, and utility methods within enum-like classes.",
   "devDependencies": {
     "ts-node": "^10.9.2",
