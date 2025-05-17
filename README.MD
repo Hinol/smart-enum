@@ -104,8 +104,3 @@ Feel free to open issues or submit pull requests to improve the library!
 
 ```
 
----
-
-Pobierz plik [README.md](sandbox:/mnt/data/README.md) i dodaj go do swojego repozytorium.  
-Jeśli chcesz, mogę pomóc z automatyzacją publikacji albo innymi plikami konfiguracyjnymi.
-```
