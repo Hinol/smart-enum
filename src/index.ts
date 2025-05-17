@@ -1,1 +1,1 @@
-export * from './enumBuilder';
+export { SmartEnum } from './enumBuilder';
