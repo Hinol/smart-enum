@@ -1,0 +1,30 @@
+{
+  "name": "smart-enum",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist/"
+  ],
+  
+  "scripts": {
+    "build": "tsup src/index.ts --dts --format esm,cjs --out-dir dist",
+    "test": "node dist/test.js"
+  },
+  "keywords": ["typescript", "enum", "smart-enum"],
+  "author": "vyyce, h1n0l",
+  "license": "ISC",
+  "description": "SmartEnum is a lightweight TypeScript utility that brings rich behavior to enums, using object-oriented principles. Unlike traditional enums, SmartEnum allows you to encapsulate logic, metadata, and utility methods within enum-like classes.",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+
+}

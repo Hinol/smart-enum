@@ -1,0 +1,4 @@
+src/test.ts
+tests/
+*.spec.ts
+node_modules
