@@ -1,5 +1,4 @@
 
-````markdown
 # smart-enum
 
 A lightweight TypeScript library for creating **smart enums** — enhanced enumerations with custom names, values, and utility methods like `fromValue()`, `fromName()`, and duplicate checking.
@@ -75,31 +74,8 @@ Abstract base class. Extend this to define your smart enum types.
 
 ---
 
-## Development
 
-Build the project:
 
-```bash
-npm run build
-```
-
-Run tests:
-
-```bash
-npm run test
-```
-
----
-
-## License
-
-MIT © h1n0l vyyce
-
----
-
-## Contributing
-
-Feel free to open issues or submit pull requests to improve the library!
-
-```
+## Any questions?
+dm me on discord: h1n0l
 
