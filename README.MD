@@ -18,7 +18,7 @@ A lightweight TypeScript library for creating **smart enums** — enhanced enume
 ## Installation
 
 ```bash
-npm install smart-enum
+npm install @h1n0l/smart-enum
 ````
 
 ---
